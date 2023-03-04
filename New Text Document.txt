@@ -1,0 +1,7 @@
+color: p:FFFFFF
+       h:3B506C
+       
+div box1 :FDEBED
+    box2:EBF9F4
+    box3:FFF7E8
+footer:008AFF
